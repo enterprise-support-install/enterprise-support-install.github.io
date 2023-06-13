@@ -39,7 +39,7 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>Version 2.0</string>
+               <string>Version 2.0.0</string>
                <key>title</key>
                <string>Tonnage for iOS</string>
             </dict>
